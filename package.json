@@ -11,7 +11,7 @@
         "axios": "^0.19.2",
         "bootstrap-vue": "^2.3.0",
         "core-js": "^3.4.4",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "owl.carousel": "^2.3.4",
         "vue": "^2.6.10",
         "vue-carousel": "^0.18.0",
